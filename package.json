@@ -1,0 +1,12 @@
+{
+  "name": "hilman-mauludin",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "preview": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^4.123.0"
+  }
+}
